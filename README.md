@@ -1,4 +1,4 @@
-# This is a repository for a test project I have written.
+# This is a repository for a test project I have written - my first repository on GitHub.
 The initial code contains a bug I am looking to resolve.
 The project is based on Donny Wals "Using Core Data in a Modern SwiftUI Application".
 I built the code Donny suggested as I liked the idea of have a single view for both Add and Edit.
